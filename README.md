@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
 
-
+  <div align="center"> Shirasu Azusa Bot </div>
 </p>
 
 </div>
@@ -10,15 +10,13 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+Enjoy the cofee :)
 
-# Requirements
+## Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
 
-# Instalasi
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -26,20 +24,12 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## How to Get Mongodb URI
-- Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
-<img src="https://telegra.ph/file/682c1315ff9a43bb1a724.jpg" width="300">
-- Jika sudah memiliki database mongoDB ikuti tutorial di bawah
-
-## HOW TO CONNECT TO MONGODB
+## How to connect to MongoDB
 
 - Salin Url database mongoDB
 - Constoh `worker: node . --db 'Link Database MongoDb'`
 - Contoh `worker: node . --db 'mongodb+srv://mongodb-bot:abcdefghij@zeeoneofc.aWpl9.mongodb.net/?retryWrites=true&w=majority'`
 
-## For Termux
-- Download script MediaFire [Here](https://telegra.ph/Alphabot-Md-V14-08-02)
-- Cara install tonton Di [YouTube](https://youtu.be/ep_PM1PpEVg)
 
 ## Edit file
 `./settings.js`
@@ -69,26 +59,26 @@ global.sessionName = 'session'
 ```
 
 
-# Thanks to
+## Thanks to
 
-[Dika](https://github.com/DikaArdnt)
+- [Dika](https://github.com/DikaArdnt)
 
-[Nurutomo](https://github.com/Nurutomo)
+- [Nurutomo](https://github.com/Nurutomo)
 
-[Mhankbarbar](https://github.com/MhankBarBar)
+- [Mhankbarbar](https://github.com/MhankBarBar)
 
-[Fatih A.](https://github.com/fatiharridho)
+- [Fatih A.](https://github.com/fatiharridho)
 
-[Ferdiz](https://github.com/FERDIZ-afk)
+- [Ferdiz](https://github.com/FERDIZ-afk)
 
-[Rashid](https://github.com/rashidsiregar28)
+- [Rashid](https://github.com/rashidsiregar28)
 
-[Adiwajshing](https://github.com/adiwajshing)
+- [Adiwajshing](https://github.com/adiwajshing)
 
-[zeeone-ofc](https://zeeone-ofc.github.io)
+- [zeeone-ofc](https://zeeone-ofc.github.io)
 
 
-<div align="senter">
+
 ## License
 This Projects has no License and it's all open source from [Zeeone-ofc](https://github.com/zeeone-ofc), feel free to continue or modified this Projects!
 
