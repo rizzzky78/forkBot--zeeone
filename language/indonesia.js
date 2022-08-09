@@ -588,7 +588,7 @@ exports.wait = () => {
     return `⏳ Mohon tunggu sebentar`
 }
 exports.ok = () => {
-    return `✅ Done.`
+    return `Tuhhh kack,.. jgn lupa bilang makasih :)`
 }
 
 exports.err = () => {
